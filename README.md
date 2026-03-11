@@ -1,20 +1,23 @@
-<h1 align="left">Hi, I'm Menna Abu-khadra</h1>
+<h1 align="left">Hi, I'm Menna Abu-Khadra </h1>
 
 <p align="left">
-I'm a Computer Science student who recently started exploring the world of Artificial Intelligence and Machine Learning.  
-I’m learning step by step, building small projects, making mistakes, fixing them, and enjoying the process.  
-My goal is to become an AI Engineer and eventually work on real-world ML systems that actually make a difference.
+I'm a Computer Science student interested in Artificial Intelligence and Machine Learning.
+I have completed several training programs and worked on small projects that helped me understand
+data analysis, ML basics, Deep Learning fundamentals, and introductory NLP and Computer Vision.
+
+I'm currently continuing to improve my skills through learning, practice, and building projects.
+My next goal is to explore Generative AI and deepen my understanding of advanced AI concepts.
 </p>
 
 ---
 
 ## 🚀 About Me
-- Started programming with C++ and Python  
-- Currently strengthening my understanding of Machine Learning & Deep Learning  
-- Trying out my first steps in NLP and Computer Vision  
-- Curious about Generative AI and how models learn  
-- Practicing problem-solving regularly (mostly C++ & Python)  
-- I really enjoy learning by doing, even if it takes time  
+- Started programming with **C++ and Python**
+- Currently strengthening my understanding of **Machine Learning & Deep Learning**
+- Exploring **NLP and Computer Vision**
+- Curious about **Generative AI**
+- Practicing **problem solving regularly** (C++ & Python)
+- I enjoy learning by building small projects
 
 ---
 
@@ -31,19 +34,23 @@ My goal is to become an AI Engineer and eventually work on real-world ML systems
 ---
 
 ## 📚 Education
-- **Egyptian E-Learning University (EELU)** – Computer Science (2023–2027)  
-- **Cisco Networking Academy** – Networking Fundamentals  
+- **Egyptian E-Learning University (EELU)** – Computer Science (2023 – 2027)
+- **Cisco Networking Academy** – Networking Fundamentals
 
 ---
 
 ## 🔥 What I'm Currently Doing
-- Building small ML/DL projects to strengthen my fundamentals  
-- Improving my competitive programming skills on Codeforces  
-- Preparing myself to learn more about Generative AI and advanced DL  
+- Building **Machine Learning & Deep Learning projects**
+- Practicing **competitive programming on Codeforces**
+- Preparing to learn **Generative AI and advanced Deep Learning**
 
 ---
 
 ## 📫 Contact Me
-If you'd like to connect or share ideas, feel free to reach out 😊  
-- **LinkedIn:** *https://www.linkedin.com/in/menna-abu-khadra-99887b229/*  
-- **Email:** *mmabukhadra05@gmail.com*  
+If you'd like to connect or collaborate, feel free to reach out 
+
+- **LinkedIn:**  
+  https://www.linkedin.com/in/menna-abu-khadra-99887b229/
+
+- **Email:**  
+  mmabukhadra05@gmail.com
