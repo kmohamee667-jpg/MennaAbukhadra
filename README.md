@@ -50,7 +50,7 @@ My next goal is to explore Generative AI and deepen my understanding of advanced
 If you'd like to connect or collaborate, feel free to reach out 
 
 - **LinkedIn:**  
-  https://www.linkedin.com/in/menna-abu-khadra-99887b229/
+  https://www.linkedin.com/in/menna-abukhadra
 
 - **Email:**  
   mmabukhadra05@gmail.com
