@@ -1,70 +1,104 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Menna%20Abu-Khadra&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=60&descSize=20" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Menna%20Abu-Khadra&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=60&descSize=20" alt="Menna Abu-Khadra — Machine Learning Engineer" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mmabukhadra05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/MennaAbukhadra"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/menna-abukhadra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mmabukhadra05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/MennaAbukhadra">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mennaabukhadra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennaabukhadra&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top languages" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MennaAbukhadra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub statistics" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaAbukhadra&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most used programming languages" height="155" />
 </p>
 
-## About me
+## About Me
 
-Computer Science student (Class of 2027) and Machine Learning Engineer based in Egypt. I build AI projects from data preparation and model training to APIs, dashboards, and deployment.
+Computer Science student at the Egyptian E-Learning University (EELU), graduating in 2027, with hands-on experience in Machine Learning, Deep Learning, and AI application development.
 
-**Focus:** Machine Learning · Deep Learning · Generative AI · LLMs & RAG
+I build end-to-end AI solutions, from data preprocessing and model development to API integration and deployment. Currently exploring Generative AI, LLM applications, and RAG.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,sklearn,tensorflow,pytorch,fastapi,streamlit,docker,azure,git,github&perline=11" alt="Tech stack" />
+**Focus:** Machine Learning · Deep Learning · Generative AI · LLMs
+
+## Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,fastapi,docker,azure,git,github&perline=10" alt="Programming, AI, and deployment technologies" />
 </p>
 
-## Featured projects
+**Programming:** Python, C++, Java, SQL
 
-### 🌱 [AgriGuard AI — Crop Stress Prediction](https://github.com/mennaabukhadra/AgriGuard-AI)
+**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, XGBoost
 
-End-to-end system for predicting crop stress from satellite and climate data.
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
-- XGBoost prediction model with Gemini-powered recommendations
-- FastAPI backend and Streamlit field-monitoring dashboard
-- Dockerized and deployed on Microsoft Azure
+**Backend & Deployment:** FastAPI, Streamlit, Docker, Docker Compose, Microsoft Azure
 
-`Python` `XGBoost` `FastAPI` `Streamlit` `Docker` `Azure`
+**AI & Tools:** Gemini API, LLMs, RAG fundamentals, GitHub Actions, Jupyter Notebook, Swagger UI
+
+## Featured Projects
+
+### 🌾 [AgriGuard AI — Crop Stress Detection](https://github.com/mennaabukhadra/AgriGuard-AI)
+
+An end-to-end AI system that uses satellite imagery and climate data to predict crop stress and support agricultural decision-making.
+
+- Developed an XGBoost classification model.
+- Built REST APIs with FastAPI and an interactive Streamlit dashboard.
+- Integrated the Gemini API for AI-powered recommendations.
+- Containerized the application using Docker and Docker Compose.
+
+`Python` `XGBoost` `FastAPI` `Streamlit` `Gemini API` `Docker`
 
 ### 💳 [Credit Card Fraud Detection](https://github.com/mennaabukhadra/Credit-Card-Fraud-Detection-System)
 
-Classification system for detecting fraud in imbalanced transaction data.
+A Machine Learning solution for detecting potentially fraudulent credit card transactions.
 
-- Data preprocessing, feature engineering, and model evaluation
-- Visual insights and Streamlit demo application
+- Performed data preprocessing and feature engineering.
+- Addressed class imbalance and evaluated classification models.
+- Created visualizations to analyze fraud patterns.
 
-`Python` `Scikit-learn` `Pandas` `Streamlit`
+`Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
 
 ### ❤️ [Heart Disease Prediction](https://github.com/mennaabukhadra/Heart_Disease_Prediction)
 
-Interactive ML application for real-time heart disease prediction.
+An interactive ML application for predicting heart disease risk using medical data.
 
-- End-to-end training pipeline and Streamlit interface
-- SHAP explainability for clearer predictions
+- Developed a model training and evaluation pipeline.
+- Applied SHAP for model interpretability.
+- Built a Streamlit interface for predictions and visual insights.
 
 `Python` `Scikit-learn` `SHAP` `Streamlit`
 
-## Skills
+### 🧩 [AI Puzzle Solver](https://github.com/mennaabukhadra/Ai-Puzzle)
 
-**Languages:** Python, Java, C++, SQL  
-**ML & Data:** Scikit-learn, TensorFlow, PyTorch, XGBoost, Pandas, NumPy  
-**Deployment:** FastAPI, Streamlit, Docker, Azure, GitHub Actions  
-**Tools:** Git, GitHub, Kaggle, Google Colab, VS Code
+An AI-based puzzle solver that applies search algorithms to explore possible states and find solutions.
 
-## Currently learning
+`Python` `AI Search Algorithms`
 
-LLM applications, RAG, MLOps, and production-ready AI systems.
+## Education & Training
+
+- **Egyptian E-Learning University (EELU)** — B.Sc. in Computer Science and Information Technology (2023–2027)
+- **Digital Egypt Pioneers Initiative (DEPI)** — AI & Machine Learning Training
+- **Route Academy** — Artificial Intelligence & Machine Learning Training
+- **Route Academy** — Generative AI Diploma
+- **ICPC** — Programming Competition Participant
+
+## Currently Exploring
+
+- Generative AI and LLM applications
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning and advanced ML techniques
+- MLOps and AI application deployment
+
+---
 
 <p align="center">
-  <i>Let's build something useful with AI.</i><br />
-  <a href="mailto:mmabukhadra05@gmail.com">mmabukhadra05@gmail.com</a>
+  <i>Building practical AI solutions, one project at a time.</i>
+  <br /><br />
+  <a href="mailto:mmabukhadra05@gmail.com">Let's Connect</a>
 </p>
-
-<img width="100%" src="https://raw.githubusercontent.com/mennaabukhadra/mennaabukhadra/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
