@@ -18,14 +18,15 @@ I build end-to-end AI applications, from data preprocessing and model developmen
 
 ## Technical Stack
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Python, C++, Java, SQL |
-| **AI / ML** | Scikit-learn, TensorFlow, PyTorch, XGBoost |
-| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| **Backend & Apps** | FastAPI, Streamlit |
-| **Generative AI** | Gemini API, LLMs, RAG |
-| **Deployment & Tools** | Docker, Microsoft Azure, Git, GitHub Actions |
+| Category                             | Technologies                                                |
+| :----------------------------------- | :---------------------------------------------------------- |
+| **Programming Languages**            | Python · C++ · Java · SQL                                   |
+| **Data Analysis & Visualization**    | Pandas · NumPy · Matplotlib · Seaborn · Plotly              |
+| **Machine Learning & Deep Learning** | Scikit-learn · XGBoost · TensorFlow · PyTorch · SHAP        |
+| **Computer Vision**                  | Image Classification · Transfer Learning · YOLO · MediaPipe |
+| **NLP & Generative AI**              | Transformers · Gemini API · LangChain · RAG · Local LLMs    |
+| **Backend & Deployment**             | FastAPI · Streamlit · Docker · Microsoft Azure              |
+
 
 ---
 
