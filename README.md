@@ -157,4 +157,4 @@ An AI-based puzzle solver that uses search algorithms to explore possible states
 <div align="center">
   <i>Building practical AI solutions, one project at a time.</i>
 </div>
-```
+
