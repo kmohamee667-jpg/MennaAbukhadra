@@ -1,11 +1,20 @@
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:07111F,50:102B43,100:00CFE8&text=Menna%20Abu-Khadra&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=62&descSize=19" alt="Menna Abu-Khadra — Machine Learning Engineer" />
 
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+End-to-End+ML+Applications;Exploring+Generative+AI+%26+LLMs;Turning+Data+Into+Practical+AI+Solutions" alt="Animated introduction" />
 
-  <a href="https://www.linkedin.com/in/menna-abukhadra"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mmabukhadra05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00B8D9?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/mennaabukhadra"><img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <p>
+    <a href="https://www.linkedin.com/in/menna-abukhadra">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mmabukhadra05@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-00B8D9?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/mennaabukhadra">
+      <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -18,15 +27,53 @@ I build end-to-end AI applications, from data preprocessing and model developmen
 
 ## Technical Stack
 
-| Category                             | Technologies                                                |
-| :----------------------------------- | :---------------------------------------------------------- |
-| **Programming Languages**            | Python · C++ · Java · SQL                                   |
-| **Data Analysis & Visualization**    | Pandas · NumPy · Matplotlib · Seaborn · Plotly              |
-| **Machine Learning & Deep Learning** | Scikit-learn · XGBoost · TensorFlow · PyTorch · SHAP        |
-| **Computer Vision**                  | Image Classification · Transfer Learning · YOLO · MediaPipe |
-| **NLP & Generative AI**              | Transformers · Gemini API · LangChain · RAG · Local LLMs    |
-| **Backend & Deployment**             | FastAPI · Streamlit · Docker · Microsoft Azure              |
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java" alt="Python, C++, Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
+### Machine Learning & Deep Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" alt="Scikit-learn, TensorFlow, PyTorch" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SHAP-Model%20Explainability-00B8D9?style=flat-square" alt="SHAP" />
+</p>
+
+### Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/Image%20Classification-102B43?style=flat-square" alt="Image Classification" />
+  <img src="https://img.shields.io/badge/Transfer%20Learning-102B43?style=flat-square" alt="Transfer Learning" />
+  <img src="https://img.shields.io/badge/YOLO-00CFE8?style=flat-square&logoColor=07111F" alt="YOLO" />
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+</p>
+
+### NLP & Generative AI
+<p>
+  <img src="https://img.shields.io/badge/Transformers-102B43?style=flat-square" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-00B8D9?style=flat-square" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/Local%20LLMs-102B43?style=flat-square" alt="Local LLMs" />
+</p>
+
+### Data Analysis & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" alt="NumPy, Pandas, Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+</p>
+
+### Backend & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,azure" alt="FastAPI, Docker, Azure" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+### Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" />
+</p>
 
 ---
 
@@ -74,3 +121,4 @@ An AI-based puzzle solver that uses search algorithms to explore possible states
 <div align="center">
   <i>Building practical AI solutions, one project at a time.</i>
 </div>
+```
